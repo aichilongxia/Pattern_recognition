@@ -4,7 +4,20 @@ import random
 import math
 import sys
 import os
+a = 1
+<<<<<<< HEAD
 
+=======
+b = 1 
+c = 1
+<<<<<<< HEAD
+>>>>>>> c5399e9... commit C
+=======
+d = 1
+>>>>>>> 958c6b6... commit D
+
+e = 1
+f = 1
 def logsig(x):
 	return  1/(1 + np.exp(-x))
 
