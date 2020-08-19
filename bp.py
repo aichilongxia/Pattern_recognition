@@ -6,6 +6,12 @@ import sys
 import os
 a = 1
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 335c37d... commit A
+=======
+>>>>>>> 1f44087... modified
 
 =======
 b = 1 
@@ -15,9 +21,17 @@ c = 1
 =======
 d = 1
 >>>>>>> 958c6b6... commit D
+<<<<<<< HEAD
+<<<<<<< HEAD
 
 e = 1
 f = 1
+=======
+>>>>>>> 1f44087... modified
+=======
+
+e = 1
+>>>>>>> 3491053... commit E
 def logsig(x):
 	return  1/(1 + np.exp(-x))
 
