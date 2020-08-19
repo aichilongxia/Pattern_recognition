@@ -31,7 +31,11 @@ f = 1
 =======
 
 e = 1
+<<<<<<< HEAD
 >>>>>>> 3491053... commit E
+=======
+f = 1
+>>>>>>> 9ef3976... commit F
 def logsig(x):
 	return  1/(1 + np.exp(-x))
 
