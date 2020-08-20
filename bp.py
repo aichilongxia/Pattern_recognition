@@ -10,6 +10,7 @@ def logsig(x):
 a = 1
 b = 1
 c = 1
+d = 1
 def train(SamSum,InDim,HidDim,OutDim,x):
 	ITERS = 2000
 	N_1 = 0.1 
