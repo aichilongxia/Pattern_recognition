@@ -7,7 +7,9 @@ import os
 
 def logsig(x):
 	return  1/(1 + np.exp(-x))
-
+a = 1
+b = 1
+c = 1
 def train(SamSum,InDim,HidDim,OutDim,x):
 	ITERS = 2000
 	N_1 = 0.1 
